@@ -4,7 +4,7 @@
 name = "personal-blog-theme"
 license = "MIT"
 licenselink = "https://github.com/dragarok/personal-blog-theme/blob/main/LICENSE"
-description = "A boilerplate starter theme using Tailwind CSS."
+description = "Tailwinds blog theme"
 homepage = "https://github.com/dragarok/personal-blog-theme"
 tags = ["Hugo", "Tailwind CSS", "theme"]
 features = []

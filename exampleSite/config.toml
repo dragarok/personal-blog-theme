@@ -1,17 +1,17 @@
-theme = "hugo-theme-tailwindcss-starter"
+theme = "personal-blog-theme"
 languageCode = "en-us"
 baseurl = "http://example.com/"
-title = "Hugo Tailwindcss Starter"
+title = "Tailwinds Blog Theme"
 
-author = "Dirk Olbrich"
-copyright = "Copyright © 2019, Dirk Olbrich, all rights reserved."
+author = "Alok Regmi"
+copyright = "Copyright © 2021, Alok Regmi, all rights reserved."
 
 [params]
-    name = "Hugo Tailwindcss Starter"
+    name = "Tailwinds Blog Theme"
     description = "A simple bootstraped theme for Hugo, build with Tailwindcss."
 
-    github_user = "dirkolbrich"
-    github_repo = "https://github.com/dirkolbrich/hugo-theme-tailwindcss-starter"
+    github_user = "dragarok"
+    github_repo = "https://github.com/dragarok/personal-blog-theme"
     github_banner = true
 
     favicon = "favicon.ico"
